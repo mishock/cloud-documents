@@ -1,0 +1,10 @@
+.env
+.env.*
+**/.env
+**/*credentials*
+**/tokens.json
+**/*.pem
+**/*.key
+google-mcp-app/
+node_modules/
+.cache/
